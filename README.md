@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tano Vanlerberghe</h1>
 <h3 align="center">Student at Howest University, starting 2nd year Software Development soon!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanovanl" alt="tanovanl" /></a> </p>
-
 - 🔭 I’m currently working on [Code Names game](https://github.com/Tanovanl/CodeNamesServer)
 
 - 🌱 I’m currently learning **Java Spring**
